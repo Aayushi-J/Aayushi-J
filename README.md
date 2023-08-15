@@ -1,6 +1,6 @@
 👋 Hi, I’m @Aayushi-J, currently a 3rd year Btech CSE student at ASE-B.
 
-👀 I’m interested in Data management and Data structures using Java, Python, and C++.
+👀 I’m interested in Data management and Data structures using Java, Python, and C++ with hands-on experience Frama-C.
 
 🌱 I’m currently learning advanced MS Excel, advanced Power BI, and basic programming with R and SAS.
 
